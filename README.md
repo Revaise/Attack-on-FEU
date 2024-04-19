@@ -1,5 +1,2 @@
-# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
+First Person Shooter based on Wolfenstein/Doom fps made by Code Space
 
-Control: 'WASD' + mouse
-
-![doom](/sreenshots/0.jpg)
